@@ -69,4 +69,4 @@ Follow progress: [@alex_erm](https://x.com/alex_erm)
 >
 > **License:** MIT
 
-This talent is a [Talent Market](https://carbonkites.com) conversion of the original Godogen project. All skill content and tool scripts are from the original repository.
+This talent is a [Talent Market](https://one-man-company.com) conversion of the original Godogen project. All skill content and tool scripts are from the original repository.

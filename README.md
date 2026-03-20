@@ -1,6 +1,6 @@
 # Godogen — Talent Market Format
 
-This repository is a [Talent Market](https://carbonkites.com) conversion of **Godogen**, an autonomous AI game development pipeline that builds complete Godot 4 projects from natural language descriptions.
+This repository is a [Talent Market](https://one-man-company.com) conversion of **Godogen**, an autonomous AI game development pipeline that builds complete Godot 4 projects from natural language descriptions.
 
 ## Original Source
 
