@@ -1,0 +1,12 @@
+# Tool manifest — declare tools this agent can use
+
+builtin_tools:
+  - Read
+  - Write
+  - Bash
+  - Glob
+  - Grep
+
+custom_tools:
+  - asset-gen
+  - doc-api
