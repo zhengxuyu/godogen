@@ -58,3 +58,15 @@ The skills were tested across different setups. Claude Code with Opus 4.6 delive
 - Explore Bevy Engine as Godot alternative
 
 Follow progress: [@alex_erm](https://x.com/alex_erm)
+
+---
+
+## Original Source & Citation
+
+> **Original Repository:** [https://github.com/htdt/godogen](https://github.com/htdt/godogen)
+>
+> **Author:** Alex Ermolov ([@alex_erm](https://x.com/alex_erm))
+>
+> **License:** MIT
+
+This talent is a [Talent Market](https://carbonkites.com) conversion of the original Godogen project. All skill content and tool scripts are from the original repository.
